@@ -21,8 +21,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         }
         
         echo "</table>";
-    } else {
-        echo "Please enter a number greater than 0.";
-    }
+}
 }
 ?>
