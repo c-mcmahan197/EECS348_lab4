@@ -10,7 +10,7 @@ function validate() {
     } else if (pass1 != pass2) {
         alert("Two passwords don't match!")
     } else {
-        alert("Everything is OK!")
+        alert("Passwords Match!")
     }
 }
 
